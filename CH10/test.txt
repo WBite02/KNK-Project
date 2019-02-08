@@ -1,0 +1,1 @@
+This chapter describes a program organization. it helps a programer make a program.
