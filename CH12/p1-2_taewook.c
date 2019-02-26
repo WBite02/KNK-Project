@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-#define NSG_LEN 80
+#define MSG_LEN 80
 
 int main(void)
 {
@@ -22,5 +22,4 @@ int main(void)
 
   putchar('\n');
   return 0;
-
 }
